@@ -19,6 +19,12 @@ namespace WinFormsApp1
                 components.Dispose();
             }
             base.Dispose(disposing);
+           
+        }
+
+        public void thien()
+        {
+            
         }
 
         #region Windows Form Designer generated code
