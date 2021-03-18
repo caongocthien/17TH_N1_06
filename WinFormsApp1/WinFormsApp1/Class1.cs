@@ -6,5 +6,7 @@ namespace WinFormsApp1
 {
     class Class1
     {
+        int a = 5;
+        int b = 7;
     }
 }
